@@ -7,7 +7,7 @@
 <body>
 
 <div class="is-lightened mb-15px p-15px">
-  <a href="https://www.codewars.com/users/BillyZane/badges">
+  <a href="https://www.codewars.com/users/BillyZane/badges" target="_blank">
     <img src="https://www.codewars.com/users/BillyZane/badges/large">
     </div>
   </a>
