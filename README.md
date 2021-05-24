@@ -7,8 +7,10 @@
 <body>
 
 <div class="is-lightened mb-15px p-15px">
-  <img src="https://www.codewars.com/users/BillyZane/badges/large">
-  </div>
+  <a href="https://www.codewars.com/users/BillyZane/badges">
+    <img src="https://www.codewars.com/users/BillyZane/badges/large">
+    </div>
+  </a>
 </div>
   
 </body>
