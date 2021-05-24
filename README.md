@@ -6,7 +6,11 @@
 </head>
 <body>
 
-<div class="is-lightened mb-15px p-15px"><img src="https://www.codewars.com/users/BillyZane/badges/large"><div class="mt-15px"><b class="mr-15px">URL:</b><label>https://www.codewars.com/users/BillyZane/badges/large</label></div></div>
+<div class="is-lightened mb-15px p-15px">
+  <img src="https://www.codewars.com/users/BillyZane/badges/large">
+    <div class="mt-15px"><b class="mr-15px">URL:</b>
+  </div>
+</div>
   
 </body>
 </html>
