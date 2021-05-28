@@ -1,6 +1,5 @@
 //input data
-
-// numbers = [2, 3, 4, 5] // must be 30 at result
+// numbers = [2, 3, 4, 5] // should be 30 as a result. 
 
 // solution
 
