@@ -9,7 +9,7 @@
       Below you can see a widget that contains a link to my
       CodeWars account. The widget information is updated in
       real time.
-      There you can see real statistics.
+      There you can see more statistics.
       <br><br>
     <div class="is-lightened mb-15px p-15px">
       <a href="https://www.codewars.com/users/BillyZane/stats" target="_blank">
