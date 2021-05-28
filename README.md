@@ -10,6 +10,7 @@
       CodeWars account. The widget information is updated in
       real time.
       There you can see real statistics.
+      <br><br>
     <div class="is-lightened mb-15px p-15px">
       <a href="https://www.codewars.com/users/BillyZane/stats" target="_blank">
         <img src="https://www.codewars.com/users/BillyZane/badges/large">
