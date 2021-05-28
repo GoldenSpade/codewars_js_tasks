@@ -12,7 +12,6 @@
       Below you can see a widget that contains a link to my
       <strong>CodeWars</strong>-account. The widget information is updated in
       real time.
-      <br>
       <br>There you can see real statistics.
     </div>
 
