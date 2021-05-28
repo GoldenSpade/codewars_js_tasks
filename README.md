@@ -5,17 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <style>
-    .main {
-      width: 500px;
+  </style>
+  <body>
+
+    <div style="
+     width: 500px;
       text-align: justify;
       margin-bottom: 20px;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       word-wrap:unset
-    }
-  </style>
-  <body>
-
-    <div class="main">
+      ">
       Here you can see my solutions of Javascript algorithmic tasks.
       <br>
       <br>
