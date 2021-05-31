@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-      The task
+      [Evens times last](https://www.codewars.com/kata/5a1a9e5032b8b98477000004)
       <br><br>
       Given a sequence of integers, return the sum of all the integers that have an even index, multiplied by the integer at the last index.
       <br>
