@@ -1,4 +1,4 @@
-[Coding Meetup #11 - Higher-Order Functions Series - Find the average](https://www.codewars.com/kata/582ba36cc1901399a70005fc)
+[Coding Meetup #11 - Higher-Order Functions Series - Find the average](https://www.codewars.com/kata/582ba36cc1901399a70005fc){:target="_blank"}
 
 You will be given a sequence of objects representing data about developers who have signed up to attend the next coding meetup that you are organising.
 
