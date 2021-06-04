@@ -1,7 +1,7 @@
 [All Star Code Challenge #1](https://www.codewars.com/kata/5863f97fb3a675d9a700003f)
 ***
 
-_This Kata is intended as a small challenge for my students_
+__This Kata is intended as a small challenge for my students__
 
 All Star Code Challenge #1
 
