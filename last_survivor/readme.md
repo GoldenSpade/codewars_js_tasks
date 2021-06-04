@@ -1,4 +1,4 @@
-#[Last Survivor](https://www.codewars.com/kata/609eee71109f860006c377d1)#
+# [Last Survivor](https://www.codewars.com/kata/609eee71109f860006c377d1)# 
 
 You are given a string of letters and an array of numbers.
 
