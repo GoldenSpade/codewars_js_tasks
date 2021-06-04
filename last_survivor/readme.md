@@ -17,7 +17,7 @@ _Example:_
 
 _Notes_
 
-The given string will never be empty.
-The length of the array is always one less than the length of the string.
-All numbers are valid.
-There can be duplicate letters and numbers.
+* The given string will never be empty.
+* The length of the array is always one less than the length of the string.
+* All numbers are valid.
+* There can be duplicate letters and numbers.
