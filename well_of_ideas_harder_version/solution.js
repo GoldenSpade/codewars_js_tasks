@@ -1,7 +1,7 @@
 // input data
 
 const arr = [
-  ['GoD', 'bad', 'bAd', 'bad'],
+  ['GooD', 'bad', 'bAd', 'bad'],
   ['bad', 'bAd', 'bad'],
   ['bad', 'bAd', 'bad', 8, 9, 10, 15, 29]
 ];
