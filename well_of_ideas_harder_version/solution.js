@@ -11,7 +11,7 @@ const arr = [
 function well(x) {
   let count = 0;
 
-  const findAll = x.map((a) => {
+  x.map((a) => {
     return a.map((b) => {
       if (String(b).toLowerCase() === 'good') {
         count++;
