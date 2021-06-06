@@ -40,4 +40,4 @@ function getFirstPython(list) {
 
 // control
 
-console.log((getFirstPython(list)));
+console.log(getFirstPython(list));
