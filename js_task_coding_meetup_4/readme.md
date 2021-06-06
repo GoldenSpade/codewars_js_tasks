@@ -1,4 +1,4 @@
-# [https://www.codewars.com/kata/coding-meetup-number-4-higher-order-functions-series-find-the-first-python-developer](Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer) #
+# [https://www.codewars.com/kata/coding-meetup-number-4-higher-order-functions-series-find-the-first-python-developer](Coding Meetup 4 - Higher-Order Functions Series - Find the first Python developer) #
 
 You will be given an array of objects (associative arrays in PHP) representing data about developers who have signed up to attend the next coding meetup that you are organising. The list is ordered according to who signed up first.
 
