@@ -8,7 +8,7 @@
       Here you can see my solutions of Javascript algorithmic tasks.
       Below is a widget that contains a link to my
       CodeWars account. The widget information is updated in
-      real time.
+      real time. Click on the widget.
       There you can find more statistics.
       <br><br>
     <div class="is-lightened mb-15px p-15px">
