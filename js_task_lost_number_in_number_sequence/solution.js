@@ -7,7 +7,7 @@ const mixArr = [1, 9, 7, 4, 6, 2, 3, 8];
 
 function findDeletedNumber(arr, mixArr) {
   if(arr.length === mixArr.length) return 0;
-  for(var k in arr)
+  for(let k in arr)
     if(mixArr.indexOf(arr[k]) === -1)
       return arr[k];
   return 0;
