@@ -1,4 +1,4 @@
-# [How many days are we represented in a foreign country?] (https://www.codewars.com/kata/58e93b4706db4d24ee000096)#
+# [How many days are we represented in a foreign country?](https://www.codewars.com/kata/58e93b4706db4d24ee000096)#
 
 How many days are we represented in a foreign country?
 
