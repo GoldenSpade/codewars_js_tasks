@@ -13,3 +13,4 @@ function duplicateSandwich(a) {
 // control
 
 console.log(duplicateSandwich(arr));
+ 
