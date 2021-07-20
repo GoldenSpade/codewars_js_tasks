@@ -1,4 +1,4 @@
-# [Automorphic Number (Special Numbers Series #6)](Definition
+# [Automorphic Number (Special Numbers Series #6)](https://www.codewars.com/kata/5a58d889880385c2f40000aa)
 
 A number is called Automorphic number if and only if its square ends in the same digits as the number itself.
 
