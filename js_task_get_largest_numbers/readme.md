@@ -1,5 +1,4 @@
-## Write a function getLargestNumbers that takes an array of numbers, and
-returns the 5 largest numbers from an array. ##
+## Write a function getLargestNumbers that takes an array of numbers, and returns the 5 largest numbers from an array. ##
 
 ### Example: ###
 
