@@ -4,5 +4,5 @@
 
 ### Example: ###
 
-getLongest (['One', 'two', 'three', 'four']) === 'three'
-getLongest (['One', 'two', 'six']) === 'One'
+    getLongest (['One', 'two', 'three', 'four']) === 'three'
+    getLongest (['One', 'two', 'six']) === 'One'
