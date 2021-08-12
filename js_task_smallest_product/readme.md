@@ -1,4 +1,4 @@
-# [Smallest Product](https://www.codewars.com/kata/59cf805aaeb28438fe00001c) #
+# [Smallest Product](https://www.codewars.com/kata/5b6b128783d648c4c4000129) #
 
 Given a non-empty array of non-empty integer arrays, multiply the contents of each nested array and return the smallest total.
 
