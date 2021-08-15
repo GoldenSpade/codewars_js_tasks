@@ -1,6 +1,5 @@
 const str = 'wwwwwwz';
 
-
 function alphabetWar(fight) {
   const leftSide = {
     w: 4,
