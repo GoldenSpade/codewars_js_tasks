@@ -15,11 +15,7 @@ function letterCheck(arr) {
     };
   };
 
-  if (arr2.length === count) {
-    return true;
-  } else {
-    return false;
-  };
+  return arr2.length === count;
 };
 
 console.log(letterCheck(array));
