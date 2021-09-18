@@ -4,6 +4,6 @@ Find the total sum of internal angles (in degrees) in an n-sided simple polygon.
 
 Examples
 
-    angle(3) => 180);
-    angle(4) => 360);
+    angle(3) => 180;
+    angle(4) => 360;
 
