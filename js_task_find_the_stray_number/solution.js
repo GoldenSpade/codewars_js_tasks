@@ -1,22 +1,8 @@
-// input data
+const array = [17, 17, 3, 17, 17, 17, 17];
 
-const arr = [1, 1, 2, 1, 1, 1, 1];
-
-// solution
-
-function stray(arr) {
-  let result = 0;
-
-  arr.sort((a, b) => a - b);
-
-  for (let i = 0; i < arr.length; i++) {
-    if (arr[i] !== arr[i - 1] && arr[i] !== arr[i + 1]) {
-      result = arr[i];
-    }
-  }
-  return result;
+function stray(numbers) {
+  return numbers.filter((x) =>
+    numbers.indexOf(x) === numbers.lastIndexOf(x))[0];
 }
-
-// control
 
 console.log(stray(arr));
