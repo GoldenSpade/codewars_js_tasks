@@ -32,7 +32,6 @@ function sexyName(name) {
 
   let score = 0;
 
-
   for (let i = 0; i < name.length; i++) {
     for (let key in SCORES) {
       if (name[i].toUpperCase() === key) {
@@ -57,6 +56,5 @@ function sexyName(name) {
     return 'THE ULTIMATE SEXIEST';
   };
 };
-
 
 console.log(sexyName(myName));
