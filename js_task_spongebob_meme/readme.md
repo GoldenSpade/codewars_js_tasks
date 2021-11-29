@@ -1,4 +1,4 @@
-# [sPoNgEbOb MeMe] (https://www.codewars.com/kata/5982619d2671576e90000017) #
+# [sPoNgEbOb MeMe](https://www.codewars.com/kata/5982619d2671576e90000017) #
 
 Remember the spongebob meme that is meant to make fun of people by repeating what they say in a mocking way?
 
