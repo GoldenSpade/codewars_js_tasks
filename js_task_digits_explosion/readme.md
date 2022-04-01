@@ -9,7 +9,7 @@ should return:
 
     "333122"
 
-    explode("102269")
+explode("102269")
 
 should return :
 
