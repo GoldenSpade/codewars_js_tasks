@@ -11,17 +11,10 @@ function sumDigPow(start, end) {
   const consecNums = [];
 
   allNums.forEach((num) => {
-    if (num < 10) {
-      consecNums.push(num);
-    }
-  });
-
-  allNums.forEach((num) => {
     let strNumArr = String(num)
       .split("")
       .map((x) => +x);
 
-    if (num >= 10) {
       let sum = strNumArr
         .map((x, i) => Math.pow(x, i + 1))
         .reduce((a, b) => a + b);
@@ -29,7 +22,6 @@ function sumDigPow(start, end) {
       if (num === sum) {
         consecNums.push(sum);
       }
-    }
   });
 
   return consecNums;
