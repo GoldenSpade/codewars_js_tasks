@@ -1,4 +1,4 @@
-[Sort rectangles and circles by area II](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5/train/javascript)
+# [Sort rectangles and circles by area II](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5) #
 
 In this kata you will be given a sequence of the dimensions of rectangles ( sequence with width and length ) and circles ( radius - just a number ).
 Your task is to return a new sequence of dimensions, sorted ascending by area.
