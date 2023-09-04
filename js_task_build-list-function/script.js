@@ -8,15 +8,14 @@ const buildList = async (url, className) => {
 
     const newUl = document.createElement('ul')
 
+    newUl.classList.add(className)
+    app.appendChild(newUl)
+
     values.forEach((el, idx) => {
       let newLi = document.createElement('li')
 
-      newUl.classList.add(className)
       newLi.classList.add(`${className}__item`)
-
-      app.appendChild(newUl)
       newUl.appendChild(newLi)
-
       newLi.innerHTML = `${idx + 1}. ${keys[idx]}: ${el}`
     })
   } catch (err) {
