@@ -12,8 +12,8 @@
       There you can find more statistics.
       <br><br>
     <div class="is-lightened mb-15px p-15px">
-      <a href="https://www.codewars.com/users/BillyZane/stats" target="_blank">
-        <img src="https://www.codewars.com/users/BillyZane/badges/large">
+      <a href="https://www.codewars.com/users/GoldenSpade/stats" target="_blank">
+        <img src="https://www.codewars.com/users/GoldenSpade/badges/large">
     </div>
     </a>
     </div>
